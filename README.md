@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahnafshahrear" alt="ahnafshahrear" /></a> </p>
 
-- Contact me with **ahnafshahrearkhan@gmail.com**
+- Contact me with **ahnafshahrearkhan@gmail.com** <br/><br/>
+[![CF](https://cp-logo.vercel.app/codeforces/AhnafShahrearKhan?logo=true)](https://codeforces.com/profile/AhnafShahrearKhan)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact Info:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahnaf shahrear khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahnaf shahrear khan" height="30" width="40" /></a>
 <a href="https://fb.com/ahnaf shahrear khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahnaf shahrear khan" height="30" width="40" /></a>
