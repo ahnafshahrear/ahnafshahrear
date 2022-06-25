@@ -28,11 +28,12 @@
 
 <h3 align="left">Contact Info:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahnaf shahrear khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahnaf shahrear khan" height="30" width="40" /></a>
-<a href="https://fb.com/ahnaf shahrear khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahnaf shahrear khan" height="30" width="40" /></a>
-<a href="https://instagram.com/ahnafshahrear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahnafshahrear" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ahnafshahrearkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahnafshahrearkhan" height="30" width="40" /></a>
-<a href="https://discord.gg/d9SwaSTK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d9SwaSTK" height="30" width="40" /></a>
+  <a href="https://fb.com/ahnaf shahrear khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahnaf shahrear khan" height="30" width="40" /></a>
+  <a href="https://instagram.com/ahnafshahrear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahnafshahrear" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ahnaf shahrear khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahnaf shahrear khan" height="30" width="40" /></a>
+  <a href="https://discord.gg/d9SwaSTK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d9SwaSTK" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/ahnafshahrearkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahnafshahrearkhan" height="30" width="40" /></a>
+
 </p> <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=ahnafshahrear&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
