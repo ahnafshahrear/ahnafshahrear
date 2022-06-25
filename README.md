@@ -1,9 +1,9 @@
 <h1 align="center">Hello... I'm Ahnaf Shahrear Khan</h1>
-<h3 align="center">Undergraduate student at Computer Science & Engineering, University of Rajshahi</h3>
+<h3 align="center">I'm an undergraduate student at Computer Science & Engineering , University of Rajshahi</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=Profile%20views&color=0e75b6&style=flat" alt="ahnafshahrear" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahnafshahrear" alt="ahnafshahrear" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahnafshahrear&theme=dracula&no-frame=true&no-bg=false&margin-w=16" alt="ahnafshahrear" /></a> </p>
 
 - Contact me with **ahnafshahrearkhan@gmail.com** <br/><br/>
 [![CF](https://cp-logo.vercel.app/codeforces/AhnafShahrearKhan?logo=true)](https://codeforces.com/profile/AhnafShahrearKhan)
@@ -37,6 +37,8 @@
 <a href="https://discord.gg/d9SwaSTK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d9SwaSTK" height="30" width="40" /></a>
 </p> <br/>
 
+![](https://github-readme-stats.vercel.app/api?username=ahnafshahrear&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnafshahrear&show_icons=true&locale=en" alt="ahnafshahrear" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahnafshahrear&theme=dracula&hide_border=true)<br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafshahrear&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
