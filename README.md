@@ -22,6 +22,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="35" />  
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="35" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" /> 
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" height="35" /> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="35" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="35" />  
 </div> <br/>
