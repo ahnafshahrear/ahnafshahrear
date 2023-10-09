@@ -1,4 +1,4 @@
-<h1 align="center">Hello... I'm Ahnaf Shahrear Khan <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hello... I'm Ahnaf Shahrear Khan</h1>
 <h3 align="center">I'm an undergraduate student at Computer Science & Engineering, University of Rajshahi</h3> <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=Profile%20views&color=0e75b6&style=flat" alt="ahnafshahrear" height=30 /> </p>
