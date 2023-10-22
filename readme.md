@@ -1,4 +1,6 @@
-<h1 align="center">Hello... I'm Ahnaf Shahrear Khan</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ebrima&pause=500&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There+...;++I'm+<Ahnaf+Shahrear+Khan/>;" />
+</h1>
 <h3 align="center">I'm an undergraduate student at Computer Science & Engineering, University of Rajshahi</h3> <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=Profile%20views&color=0e75b6&style=flat" alt="ahnafshahrear" height=30 /> </p>
