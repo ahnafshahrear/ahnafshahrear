@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">I'm an undergraduate student at Computer Science & Engineering, University of Rajshahi</h3> <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=Profile%20views&color=0e75b6&style=flat" alt="ahnafshahrear" height=30 /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="ahnafshahrear" height=30 /> </p>
 
 - **Gmail: ahnafshahrearkhan@gmail.com** <br/>
 - **Website: https://ahnafshahrear.github.io/Ahnafs-Portfolio-Website** <br/><br/>
