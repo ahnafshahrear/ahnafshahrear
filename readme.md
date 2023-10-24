@@ -7,7 +7,7 @@ I'm an undergraduate Computer Science & Engineering student at the University of
 
 * 🌍  **I'm from Mymensingh, Bangladesh**
 * ✉️  **You can contact me at [ahnafshahrearkhan@gmail.com](mailto:ahnafshahrearkhan@gmail.com)**
-* 🚀  **I'm currently working on `Artifacts suppression from EEG signal using sub-band approach`**
+* 🚀  **I'm currently working on "Artifacts suppression from EEG signal using sub-band approach"**
 * 🧠  **I'm learning Machine Learning & Deep Learning**
 * ⚡  **I'm also very good at Graphics Designing using Adobe Illustrator**
 * 🌐  **Check out my Portfolio Website [Click Here](https://ahnafshahrear.github.io/Ahnafs-Portfolio-Website)**
@@ -44,19 +44,4 @@ I'm an undergraduate Computer Science & Engineering student at the University of
    <a href="https://instagram.com/ahnafshahrear" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=#1877F2" alt="ahnafshahrear" height="30" /></a>
 </p> <br/>
 
-<p align="center">
-  <a href="https://github.com/ahnafshahrear">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahnafshahrear&theme=transparent" />
-  </a>
-  <a href="https://github.com/ahnafshahrear">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafshahrear&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/ahnafshahrear">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahnafshahrear&theme=transparent" />
-  </a>
-</p>
-
-<details>
-<summary>My LeetCode Stat</summary>
 ![](https://leetcard.jacoblin.cool/ahnafshahrear?ext=heatmap)
-</details>
