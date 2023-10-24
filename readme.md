@@ -49,4 +49,7 @@
   </a>
 </p>
 
+<details>
+<summary>My LeetCode Stat</summary>
 ![](https://leetcard.jacoblin.cool/ahnafshahrear?ext=heatmap)
+</details>
