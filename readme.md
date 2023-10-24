@@ -35,12 +35,12 @@ I'm an undergraduate Computer Science & Engineering student at the University of
   <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" title="Git" height="30" />
 </div> <br/>
 
-### 🔗 Connet Me Through
+### 🔗 Let's Get Connected...
 <p align="left">
-  <a href="https://fb.com/ahnaf shahrear khan" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=#1877F2" alt="ahnaf shahrear khan" height="30" /></a>
-  <a href="https://linkedin.com/in/ahnaf shahrear khan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=#1877F2" alt="ahnaf shahrear khan" height="30" /></a>
-  <a href="https://discord.gg/d9SwaSTK" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=#1877F2" alt="d9SwaSTK" height="30" /></a>
-  <a href="https://codeforces.com/profile/ahnafshahrearkhan" target="blank"><img align="center" src="https://img.shields.io/badge/CodeForces-282C34?logo=codeforces&logoColor=#1877F2" alt="ahnafshahrearkhan" height="30" /></a>
+    <a href="https://linkedin.com/in/ahnafshahrearkhan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=blue" alt="ahnaf shahrear khan" height="30" /></a>
+    <a href="https://fb.com/ahnafshahrearkhan" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=blue" alt="ahnaf shahrear khan" height="30" /></a>
+    <a href="https://discord.gg/d9SwaSTK" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=#1877F2" alt="d9SwaSTK" height="30" /></a>
+    <a href="https://codeforces.com/profile/ahnafshahrearkhan" target="blank"><img align="center" src="https://img.shields.io/badge/CodeForces-282C34?logo=codeforces&logoColor=#1877F2" alt="ahnafshahrearkhan" height="30" /></a>
    <a href="https://instagram.com/ahnafshahrear" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=#1877F2" alt="ahnafshahrear" height="30" /></a>
 </p> <br/>
 
