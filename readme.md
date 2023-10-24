@@ -1,13 +1,20 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Ebrima&pause=500&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There+...;++I'm+<Ahnaf+Shahrear+Khan/>;" />
 </h1>
-<h3 align="center">I'm an undergraduate student at Computer Science & Engineering, University of Rajshahi</h3> <br/>
+
+I'm an undergraduate Computer Science & Engineering student at the University of Rajshahi. I'm very passionate about Programming & love to Solve Problems.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* 🌍  **I'm from Mymensingh, Bangladesh**
+* ✉️  **You can contact me at [ahnafshahrearkhan@gmail.com](mailto:ahnafshahrearkhan@gmail.com)**
+* 🚀  **I'm currently working on `Artifacts suppression from EEG signal using sub-band approach`**
+* 🧠  **I'm learning Machine Learning & Deep Learning**
+* ⚡  **I'm also very good at Graphics Designing using Adobe Illustrator**
+* 🌐  **Check out my Portfolio Website [Click Here](https://ahnafshahrear.github.io/Ahnafs-Portfolio-Website)**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="ahnafshahrear" height=30 /> </p>
 
-- **Gmail: ahnafshahrearkhan@gmail.com** <br/>
-- **Website: https://ahnafshahrear.github.io/Ahnafs-Portfolio-Website** <br/><br/>
-[![CF](https://cp-logo.vercel.app/codeforces/AhnafShahrearKhan?logo=true)](https://codeforces.com/profile/AhnafShahrearKhan)
+<!--- [![CF](https://cp-logo.vercel.app/codeforces/AhnafShahrearKhan?logo=true)](https://codeforces.com/profile/AhnafShahrearKhan) --->
 
 ### 🛠 Languages, Technologies & Frameworks
 <div align="left"> 
