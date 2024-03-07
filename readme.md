@@ -7,7 +7,7 @@ I'm an undergraduate Computer Science & Engineering student at the University of
 
 * 🌍  **I'm from Mymensingh, Bangladesh**
 * ✉️  **You can contact me at [ahnafshahrearkhan@gmail.com](mailto:ahnafshahrearkhan@gmail.com)**
-* 🚀  **I'm currently working on "Artifacts suppression from EEG signal using sub-band approach"**
+* 🚀  **I'm currently working on "Artifacts Suppression from EEG Signal using Sub-band Approach"**
 * 🧠  **I'm learning Machine Learning & Deep Learning**
 * ⚡  **I'm also very good at Graphics Designing using Adobe Illustrator**
 * 🌐  **Check out my Portfolio Website [Click Here](https://ahnafshahrear.github.io/Ahnafs-Portfolio-Website)**
