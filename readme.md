@@ -44,4 +44,4 @@ I'm an undergraduate Computer Science & Engineering student at the University of
    <a href="https://instagram.com/ahnafshahrear" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=#1877F2" alt="ahnafshahrear" height="30" /></a>
 </p> <br/>
 
-![](https://leetcard.jacoblin.cool/ahnafshahrear?ext=heatmap)
+<!-- ![](https://leetcard.jacoblin.cool/ahnafshahrear?ext=heatmap)
