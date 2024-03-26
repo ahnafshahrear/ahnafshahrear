@@ -3,6 +3,8 @@
 </h1>
 
 I'm an undergraduate Computer Science & Engineering student at the University of Rajshahi. I'm very passionate about Programming & love to Solve Problems.
+</br>
+Hopefully, some repositories here help you. Keep exploring & enjoy... 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  **I'm from Mymensingh, Bangladesh**
