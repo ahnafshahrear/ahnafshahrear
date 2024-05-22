@@ -18,7 +18,7 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
 
 <!--- [![CF](https://cp-logo.vercel.app/codeforces/AhnafShahrearKhan?logo=true)](https://codeforces.com/profile/AhnafShahrearKhan) --->
 
-### 🛠 Languages, Technologies & Frameworks
+### 🛠 Languages, Tools & Frameworks
 <div align="left"> 
   <img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=yellow" alt="C" title="C" height="30" />
   <img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=blue" alt="C++" title="C++" height="30" />
