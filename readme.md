@@ -47,7 +47,7 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
 </p> <br/>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </p>
 
 <!-- ![](https://leetcard.jacoblin.cool/ahnafshahrear?ext=heatmap)
