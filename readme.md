@@ -46,4 +46,8 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
    <a href="https://instagram.com/ahnafshahrear" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=#1877F2" alt="ahnafshahrear" height="30" /></a>
 </p> <br/>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 <!-- ![](https://leetcard.jacoblin.cool/ahnafshahrear?ext=heatmap)
