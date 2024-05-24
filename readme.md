@@ -23,7 +23,7 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
 ### 🛠 Languages, Tools & Frameworks
 <table><tr><td valign="top" width="33%">
 
-### Expertise   
+## Expertise   
 <div align="center">  
     <img src="./images/c++.png" width="50"/> &nbsp;
     <img src="./images/python.png" width="50"/> &nbsp; 
@@ -35,7 +35,7 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
 
 </td><td valign="top" width="33%">
 
-### Intermediate   
+## Intermediate   
 <div align="center">  
     <img src="./images/c.png" width="50"/> &nbsp; 
     <img src="./images/java.png" width="40"/> &nbsp; 
@@ -47,7 +47,7 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
 
 </td><td valign="top" width="33%">
 
-### Familiar   
+## Familiar   
 <div align="center">  
     <img src="./images/matlab.png" width="55"/> &nbsp;
     <img src="./images/flutter.png" width="45"/> &nbsp;
