@@ -33,7 +33,7 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
     <img src="./images/flutter.png" width="45"/> &nbsp; &nbsp;
     <img src="./images/android-studio.png" width="50"/> &nbsp; &nbsp;
     <img src="./images/git.png" width="50"/> &nbsp; &nbsp;
-    <img src="./images/vscode.png" width="50"/> &nbsp; &nbsp;
+    <img src="./images/vscode.png" width="45"/> &nbsp; &nbsp;
     <img src="./images/ai.png" width="45"/> &nbsp; &nbsp;
     <img src="./images/ps.png" width="45"/> &nbsp; &nbsp;
 </div> <br/>
