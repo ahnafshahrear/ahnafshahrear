@@ -22,26 +22,26 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
 <div align="left"> 
     <img src="./images/c.png" width="50"/> &nbsp; &nbsp;
     <img src="./images/c++.png" width="50"/> &nbsp; &nbsp;
-    <img src="./images/java.png" width="45"/> &nbsp; &nbsp;
+    <img src="./images/java.png" width="40"/> &nbsp; &nbsp;
     <img src="./images/python.png" width="50"/> &nbsp; &nbsp;
     <img src="./images/mysql.png" width="75"/> &nbsp; &nbsp;
     <img src="./images/html.png" width="45"/> &nbsp; &nbsp;
     <img src="./images/css.png" width="45"/> &nbsp; &nbsp;
     <img src="./images/php.png" width="75"/> &nbsp; &nbsp;
     <img src="./images/tensorflow.png" width="50"/> &nbsp; &nbsp;
+    <img src="./images/matlab.png" width="55"/> &nbsp; &nbsp;
     <img src="./images/flutter.png" width="45"/> &nbsp; &nbsp;
+    <img src="./images/android-studio.png" width="50"/> &nbsp; &nbsp;
     <img src="./images/git.png" width="50"/> &nbsp; &nbsp;
     <img src="./images/vscode.png" width="50"/> &nbsp; &nbsp;
-    <img src="./images/matlab.png" width="50"/> &nbsp; &nbsp;
-    <img src="./images/android-studio.png" width="50"/> &nbsp; &nbsp;
     <img src="./images/ai.png" width="45"/> &nbsp; &nbsp;
     <img src="./images/ps.png" width="45"/> &nbsp; &nbsp;
 </div> <br/>
 
 ### 🔗 Let's Get Connected...
 <p align="left">
-    <a href="https://www.facebook.com/profile.php?id=100009621791250" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg' height="50"></a> &nbsp;
-    <a href="https://linkedin.com/in/ahnafshahrearkhan" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' height="50"></a>
+    <a href="https://www.facebook.com/profile.php?id=100009621791250" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg' height="50"></a> &nbsp; &nbsp;
+    <a href="https://linkedin.com/in/ahnafshahrearkhan" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' height="50"></a> &nbsp; &nbsp;
 </p> <br/>
 
 <p align="center">
