@@ -25,11 +25,8 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
 
 ### 🔗 Let's Get Connected...
 <p align="left">
-    <a href="https://linkedin.com/in/ahnafshahrearkhan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=blue" alt="ahnaf shahrear khan" height="30" /></a>
-    <a href="https://fb.com/ahnafshahrearkhan" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=blue" alt="ahnaf shahrear khan" height="30" /></a>
-    <a href="https://discord.gg/d9SwaSTK" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=#1877F2" alt="d9SwaSTK" height="30" /></a>
-    <a href="https://codeforces.com/profile/ahnafshahrearkhan" target="blank"><img align="center" src="https://img.shields.io/badge/CodeForces-282C34?logo=codeforces&logoColor=#1877F2" alt="ahnafshahrearkhan" height="30" /></a>
-   <a href="https://instagram.com/ahnafshahrear" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=#1877F2" alt="ahnafshahrear" height="30" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100009621791250" target="blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg' height="50"></a> &nbsp;
+    <a href="https://linkedin.com/in/ahnafshahrearkhan" target="blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' height="50"></a>
 </p> <br/>
 
 <p align="center">
