@@ -20,21 +20,7 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
 
 ### 🛠 Languages, Tools & Frameworks
 <div align="left"> 
-  <img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=yellow" alt="C" title="C" height="30" />
-  <img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=blue" alt="C++" title="C++" height="30" />
-  <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android" title="Android" height="30" />
-  <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter" title="Flutter" height="30" />
-  <img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=#7F52FF" alt="Kotlin" title="Kotlin" height="30" />
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="30" />
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS" title="CSS" height="30" />
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="30" />
-  <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python" title="Python" height="30" /> 
-  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=#61DAFB" alt="React" title="React" height="30" />
-  <img src="https://img.shields.io/badge/Octave-282C34?logo=octave&logoColor=#0790C0" alt="Octave" title="Octave" height="30" />
-  <img src="https://img.shields.io/badge/MariaDB-282C34?logo=mariadb&logoColor=blue" alt="MariaDB" title="MariaDB" height="30" />
-  <img src="https://img.shields.io/badge/Illustrator-282C34?logo=adobeillustrator&logoColor=#FF9A00" alt="Adobe Illustrator" title="Adobe Illustrator" height="30" />
-  <img src="https://img.shields.io/badge/Photoshop-282C34?logo=adobephotoshop&logoColor=#31A8FF" alt="Adobe Photoshop" title="Adobe Photoshop" height="30" />
-  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" title="Git" height="30" />
+  <img src="./github-skills.png"/>
 </div> <br/>
 
 ### 🔗 Let's Get Connected...
