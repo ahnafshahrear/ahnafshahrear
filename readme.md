@@ -14,7 +14,7 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
 * ⚡  **I'm also very good at Graphics Designing using Adobe Illustrator**
 * 🌐  **Check out my Portfolio Website [Click Here](https://ahnafshahrear.github.io/Ahnafs-Portfolio-Website)**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=%20👁️&color=0e75b6&style=flat" alt="ahnafshahrear" height=30 /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=%20👁️&color=0e75b6&style=flat-square" alt="ahnafshahrear" height=30 /> </p>
 
 <!--- [![CF](https://cp-logo.vercel.app/codeforces/AhnafShahrearKhan?logo=true)](https://codeforces.com/profile/AhnafShahrearKhan) --->
 
