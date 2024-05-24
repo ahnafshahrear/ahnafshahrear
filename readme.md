@@ -25,17 +25,17 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
     <img src="./images/java.png" width="45"/> &nbsp; &nbsp;
     <img src="./images/python.png" width="50"/> &nbsp; &nbsp;
     <img src="./images/mysql.png" width="75"/> &nbsp; &nbsp;
-    <img src="./images/html.png" width="50"/> &nbsp; &nbsp;
-    <img src="./images/css.png" width="50"/> &nbsp; &nbsp;
+    <img src="./images/html.png" width="45"/> &nbsp; &nbsp;
+    <img src="./images/css.png" width="45"/> &nbsp; &nbsp;
     <img src="./images/php.png" width="75"/> &nbsp; &nbsp;
     <img src="./images/tensorflow.png" width="50"/> &nbsp; &nbsp;
-    <img src="./images/flutter.png" width="50"/> &nbsp; &nbsp;
+    <img src="./images/flutter.png" width="45"/> &nbsp; &nbsp;
     <img src="./images/git.png" width="50"/> &nbsp; &nbsp;
     <img src="./images/vscode.png" width="50"/> &nbsp; &nbsp;
     <img src="./images/matlab.png" width="50"/> &nbsp; &nbsp;
     <img src="./images/android-studio.png" width="50"/> &nbsp; &nbsp;
-    <img src="./images/ai.png" width="50"/> &nbsp; &nbsp;
-    <img src="./images/ps.png" width="50"/> &nbsp; &nbsp;
+    <img src="./images/ai.png" width="45"/> &nbsp; &nbsp;
+    <img src="./images/ps.png" width="45"/> &nbsp; &nbsp;
 </div> <br/>
 
 ### 🔗 Let's Get Connected...
