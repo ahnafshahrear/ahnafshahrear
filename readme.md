@@ -10,7 +10,7 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
 * 🌍  **I'm from Mymensingh, Bangladesh**
 * ✉️  **You can contact me at [ahnafshahrearkhan@gmail.com](mailto:ahnafshahrearkhan@gmail.com)**
 * 🚀  **I'm currently working on "Artifacts Suppression from EEG Signal using Sub-band Approach"**
-* 🧠  **I'm learning Machine Learning & Deep Learning**
+* 🧠  **I'm learning Deep Learning, PHP & Laravel**
 * ⚡  **I'm also very good at Graphics Designing using Adobe Illustrator**
 * 🌐  **Check out my Portfolio Website [Click Here](https://ahnafshahrear.github.io/Ahnafs-Portfolio-Website)**
 
