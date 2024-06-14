@@ -53,10 +53,8 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
 
 
 <p align="center">
-  <a href="https://github.com/oraclebrain?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ahnafshahrear&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=EBEBEB" width="45%" alt="@ahnafshahrear's GitHub Stats">
-  </a>
-  <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ahnafshahrear&theme=graywhite&hide_border=true&border_radius=5.3&date_format=j%20M%5B%20Y%5D&card_width=535&card_height=210&background=EBEBEB&dates=000000&ring=000000&currStreakLabel=000000&fire=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000" width="45%" alt="@ahnafshahrear'sGitHub Streak"/></a>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ahnafshahrear&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=EBEBEB" width="45%" alt="@ahnafshahrear's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahnafshahrear&theme=graywhite&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=535&card_height=210&background=EBEBEB&dates=000000&ring=000000&currStreakLabel=000000&fire=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000" width="45%" alt="@ahnafshahrear's GitHub Streak"/>
 </p>
 <br/>
 
