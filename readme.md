@@ -50,6 +50,20 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
     <a href="https://linkedin.com/in/ahnafshahrearkhan" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' height="50"></a> &nbsp;
 </p> <br/>
 
+
+
+<p align="center">
+  <a href="https://github.com/oraclebrain?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ahnafshahrear&show_icons=true&count_private=true&hide_border=true&title_color=dc143c&icon_color=dc143c&text_color=ffffff&bg_color=0d1117" width="45%" alt="@ahnafshahrear's github-readme-stats">
+  </a>
+  <a href="https://github.com/oraclebrain?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ahnafshahrear&theme=shadow-red&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@ahnafshahrear's github-readme-streak-stats">
+  </a>
+</p>
+<br/>
+
+
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </p>
