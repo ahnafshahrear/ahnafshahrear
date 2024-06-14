@@ -46,8 +46,8 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
 
 ### 🔗 Let's Get Connected...
 <p align="left">
-    <a href="https://www.facebook.com/profile.php?id=100009621791250" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg' height="50"></a> &nbsp;
-    <a href="https://linkedin.com/in/ahnafshahrearkhan" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' height="50"></a> &nbsp;
+    <a href="https://www.facebook.com/profile.php?id=100009621791250" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg' height="48"></a> &nbsp;
+    <a href="https://linkedin.com/in/ahnafshahrearkhan" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' height="48"></a> &nbsp;
 </p> <br/>
 
 
