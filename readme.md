@@ -30,6 +30,7 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...
     <img src="./images/html.png" width="40"/> &nbsp; 
     <img src="./images/css.png" width="40"/> &nbsp; 
     <img src="./images/php.png" width="70"/> &nbsp;
+    <img src="./images/laravel.png" width="45"/> &nbsp;
     <img src="./images/tensorflow.png" width="45"/> &nbsp;
     <img src="./images/matlab.png" width="45"/> &nbsp;
     <img src="./images/flutter.png" width="40"/> &nbsp;
