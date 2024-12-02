@@ -28,7 +28,7 @@
     <img src="./images/git.png" width="45"/> &nbsp;
     <img src="./images/vscode.png" width="45"/> &nbsp; 
     <img src="./images/ai.png" width="45"/> &nbsp; 
-    <img src="./images/ps.png" width="45"/> &nbsp;
+<!--     <img src="./images/ps.png" width="45"/> &nbsp; -->
 </div> <br/>
 
 <!--- Skills Section Ends -->
