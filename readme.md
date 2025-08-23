@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans&weight=500&size=32&pause=1000&center=true&width=435&height=100&lines=Hello+There...;I'm+Ahnaf+Shahrear+Khan" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans&weight=500&size=32&pause=1000&center=true&width=435&height=85&lines=Hello+There...;I'm+Ahnaf+Shahrear+Khan" alt="Typing SVG" /></a>
 </h1>
 
 ### I'm currently working as an Associate Software Engineer at Therap (BD) Ltd. I've completed my B.Sc in Computer Science & Engineering from the University of Rajshahi. I'm very passionate about Programming & love to Solve Problems. Hopefully, some repositories here help you. Keep exploring & enjoy... 
