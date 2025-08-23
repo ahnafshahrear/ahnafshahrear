@@ -11,6 +11,12 @@
 
 <!--- Skills Section Starts -->
 
+### 🛠 Current Tech Stack
+<img src="./images/java.png" width="35"/> &nbsp;
+<img src="./images/spring.png" width="64"/> &nbsp;
+<img src="./images/hibernate.png" width="64"/> &nbsp;
+
+
 ### 🛠 Languages, Tools & Frameworks
 <div align="left"> 
     <img src="./images/c.png" width="45"/> &nbsp; 
