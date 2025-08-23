@@ -11,13 +11,15 @@
 
 <!--- Skills Section Starts -->
 
-### 🛠 Current Tech Stack
-<img src="./images/java.png" width="35"/> &nbsp;
-<img src="./images/spring.png" width="64"/> &nbsp;
-<img src="./images/hibernate.png" width="64"/> &nbsp;
+### 🔥 What I code with
+<img src="./images/java.png" width="36"/> &nbsp;
+<img src="./images/spring.png" width="44"/> &nbsp;
+<img src="./images/hibernate.png" width="58"/> &nbsp;
+<img src="./images/intellij.png" width="48"/> &nbsp;
+<img src="./images/git.png" width="46"/> &nbsp;
 
 
-### 🛠 Languages, Tools & Frameworks
+### 🛠 Tech I’ve used before
 <div align="left"> 
     <img src="./images/c.png" width="45"/> &nbsp; 
     <img src="./images/c++.png" width="45"/> &nbsp; 
@@ -32,17 +34,15 @@
     <img src="./images/matlab.png" width="45"/> &nbsp;
     <img src="./images/flutter.png" width="40"/> &nbsp;
     <img src="./images/android-studio.png" width="45"/> &nbsp;
-    <img src="./images/git.png" width="45"/> &nbsp;
     <img src="./images/vscode.png" width="45"/> &nbsp; 
     <img src="./images/ai.png" width="45"/> &nbsp; 
-<!--     <img src="./images/ps.png" width="45"/> &nbsp; -->
 </div> <br/>
 
 <!--- Skills Section Ends -->
 
 <br/>  
 
-### 🔗 Let's Get Connected...
+### 📎 Let's get connected...
 <div align="left"> 
     <a href="https://www.facebook.com/profile.php?id=100009621791250" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg' height="45"></a> &nbsp;
     <a href="https://linkedin.com/in/ahnafshahrearkhan" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' height="45"></a> &nbsp;
