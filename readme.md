@@ -5,7 +5,7 @@
 
 ### I'm currently working as an Associate Software Engineer at Therap (BD) Ltd. I've completed my B.Sc in Computer Science & Engineering from the University of Rajshahi 🇧🇩. I'm very passionate about Programming & love to Solve Problems. Hopefully, some repositories here help you. Keep exploring & enjoy... 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=%20👁️&color=0e75b6&style=flat-square" alt="ahnafshahrear" height=30 /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=%20👁️&color=0e75b6&style=flat-square" alt="ahnafshahrear" height=32 /> </p>
 
 <!--- [![CF](https://cp-logo.vercel.app/codeforces/AhnafShahrearKhan?logo=true)](https://codeforces.com/profile/AhnafShahrearKhan) --->
 
@@ -17,13 +17,15 @@
 <img src="./images/hibernate.png" width="58"/> &nbsp;
 <img src="./images/intellij.png" width="48"/> &nbsp;
 <img src="./images/git.png" width="46"/> &nbsp;
+<img src="./images/vscode.png" width="44"/> &nbsp; 
 
+
+<br/>
 
 ### 🛠 Tech I’ve used before
 <div align="left"> 
     <img src="./images/c.png" width="45"/> &nbsp; 
     <img src="./images/c++.png" width="45"/> &nbsp; 
-    <img src="./images/java.png" width="35"/> &nbsp; 
     <img src="./images/python.png" width="45"/> &nbsp; 
     <img src="./images/mysql.png" width="70"/> &nbsp; 
     <img src="./images/html.png" width="40"/> &nbsp; 
@@ -34,7 +36,6 @@
     <img src="./images/matlab.png" width="45"/> &nbsp;
     <img src="./images/flutter.png" width="40"/> &nbsp;
     <img src="./images/android-studio.png" width="45"/> &nbsp;
-    <img src="./images/vscode.png" width="45"/> &nbsp; 
     <img src="./images/ai.png" width="45"/> &nbsp; 
 </div> <br/>
 
@@ -46,8 +47,10 @@
 <div align="left"> 
     <a href="https://www.facebook.com/profile.php?id=100009621791250" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg' height="45"></a> &nbsp;
     <a href="https://linkedin.com/in/ahnafshahrearkhan" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' height="45"></a> &nbsp;
-</div> <br/>
+</div> 
 
+<br/>
+<br/>
 
 
 <p align="center" style="display: flex; justify-content: center; align-items: baseline;">
