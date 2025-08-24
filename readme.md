@@ -13,7 +13,7 @@
 
 ### 🔥 What I code with
 <img src="./images/java.png" width="36"/> &nbsp;
-<img src="./images/spring.png" width="44"/> &nbsp;
+<img src="./images/spring.svg" width="64"/> &nbsp;
 <img src="./images/hibernate.png" width="58"/> &nbsp;
 <img src="./images/intellij.png" width="48"/> &nbsp;
 <img src="./images/git.png" width="46"/> &nbsp;
