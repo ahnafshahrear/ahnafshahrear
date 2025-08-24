@@ -12,15 +12,14 @@
 <!--- Skills Section Starts -->
 
 ### 🔥 What I code with
-<img src="./images/java.png" width="36"/> &nbsp;
-<img src="./images/spring.svg" width="64"/> &nbsp;
-<img src="./images/hibernate.png" width="58"/> &nbsp;
-<img src="./images/intellij.png" width="48"/> &nbsp;
-<img src="./images/git.png" width="46"/> &nbsp;
-<img src="./images/vscode.png" width="44"/> &nbsp; 
-
-
-<br/>
+<div align="left"> 
+    <img src="./images/java.png" width="36"/> &nbsp;
+    <img src="./images/spring.svg" width="68"/> &nbsp;
+    <img src="./images/hibernate.svg" width="62"/> &nbsp;
+    <img src="./images/intellij.png" width="48"/> &nbsp;
+    <img src="./images/git.png" width="46"/> &nbsp;
+    <img src="./images/vscode.png" width="44"/> &nbsp; 
+</div> <br/>
 
 ### 🛠 Tech I’ve used before
 <div align="left"> 
@@ -47,6 +46,7 @@
 <div align="left"> 
     <a href="https://www.facebook.com/profile.php?id=100009621791250" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg' height="45"></a> &nbsp;
     <a href="https://linkedin.com/in/ahnafshahrearkhan" target="_blank"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' height="45"></a> &nbsp;
+    <a href="https://mail.google.com/mail" target="_blank"><img src='./images/mail.png' height="45"></a> &nbsp;
 </div> 
 
 <br/>
