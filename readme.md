@@ -5,7 +5,7 @@
 
 ### I'm currently working as an Associate Software Engineer at Therap (BD) Ltd. I've completed my B.Sc in Computer Science & Engineering from the University of Rajshahi 🇧🇩. I'm very passionate about Programming & love to Solve Problems. Hopefully, some repositories here help you. Keep exploring & enjoy... 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=%20👁️&color=0e75b6&style=flat-square" alt="ahnafshahrear" height=32 /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafshahrear&label=%20View%20Count%20&color=0e75b6&style=flat-square" alt="ahnafshahrear" height=32 /> </p>
 
 <!--- [![CF](https://cp-logo.vercel.app/codeforces/AhnafShahrearKhan?logo=true)](https://codeforces.com/profile/AhnafShahrearKhan) --->
 
