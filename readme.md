@@ -19,7 +19,7 @@
     <img src="./images/hibernate.svg" width="44"/> &thinsp;
     <img src="./images/git.svg" width="46"/> &thinsp;
     <img src="./images/intellij.svg" width="46"/> &thinsp;
-    <img src="./images/postman.svg" width="46"/> &thinsp;
+    <img src="./images/postman.svg" width="44"/> &thinsp;
 </div> <br/>
 
 ### 🛠 Tech I’ve used before
