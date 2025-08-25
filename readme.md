@@ -13,15 +13,13 @@
 
 ### 🔥 What I code with
 <div align="left"> 
-    <img src="./images/cplusplus.svg" width="48"/> &nbsp;
-    <img src="./images/java.svg" width="48"/> &nbsp;
-    <img src="./images/spring.svg" width="48"/> &nbsp;
-    <img src="./images/hibernate.svg" width="48"/> &nbsp;
-    <img src="./images/intellij.svg" width="48"/> &nbsp;
-    <img src="./images/git.svg" width="48"/> &nbsp;
-    <img src="./images/postman.svg" width="48"/> &nbsp;
-    <img src="./images/sqldeveloper.svg" width="48"/> &nbsp;
-    <img src="./images/ubuntu.svg" width="32"/> &nbsp;
+    <img src="./images/cplusplus.svg" width="42"/> &thinsp;
+    <img src="./images/java.svg" width="48"/> &thinsp;
+    <img src="./images/spring.svg" width="42"/> &thinsp;
+    <img src="./images/hibernate.svg" width="44"/> &thinsp;
+    <img src="./images/git.svg" width="46"/> &thinsp;
+    <img src="./images/intellij.svg" width="46"/> &thinsp;
+    <img src="./images/postman.svg" width="46"/> &thinsp;
 </div> <br/>
 
 ### 🛠 Tech I’ve used before
