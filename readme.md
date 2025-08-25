@@ -13,18 +13,20 @@
 
 ### 🔥 What I code with
 <div align="left"> 
-    <img src="./images/java.png" width="36"/> &nbsp;
-    <img src="./images/spring.svg" width="68"/> &nbsp;
-    <img src="./images/hibernate.svg" width="62"/> &nbsp;
-    <img src="./images/intellij.png" width="48"/> &nbsp;
-    <img src="./images/git.png" width="46"/> &nbsp;
-    <img src="./images/vscode.png" width="44"/> &nbsp; 
+    <img src="./images/cplusplus.svg" width="48"/> &nbsp;
+    <img src="./images/java.svg" width="48"/> &nbsp;
+    <img src="./images/spring.svg" width="48"/> &nbsp;
+    <img src="./images/hibernate.svg" width="48"/> &nbsp;
+    <img src="./images/intellij.svg" width="48"/> &nbsp;
+    <img src="./images/git.svg" width="48"/> &nbsp;
+    <img src="./images/postman.svg" width="48"/> &nbsp;
+    <img src="./images/sqldeveloper.svg" width="48"/> &nbsp;
+    <img src="./images/ubuntu.svg" width="32"/> &nbsp;
 </div> <br/>
 
 ### 🛠 Tech I’ve used before
 <div align="left"> 
     <img src="./images/c.png" width="45"/> &nbsp; 
-    <img src="./images/c++.png" width="45"/> &nbsp; 
     <img src="./images/python.png" width="45"/> &nbsp; 
     <img src="./images/mysql.png" width="70"/> &nbsp; 
     <img src="./images/html.png" width="40"/> &nbsp; 
